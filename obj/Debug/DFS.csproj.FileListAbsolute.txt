@@ -1,0 +1,6 @@
+D:\projects\C#\DFS\DFS\bin\Debug\DFS.exe.config
+D:\projects\C#\DFS\DFS\bin\Debug\DFS.exe
+D:\projects\C#\DFS\DFS\bin\Debug\DFS.pdb
+D:\projects\C#\DFS\DFS\obj\Debug\DFS.csprojResolveAssemblyReference.cache
+D:\projects\C#\DFS\DFS\obj\Debug\DFS.exe
+D:\projects\C#\DFS\DFS\obj\Debug\DFS.pdb
