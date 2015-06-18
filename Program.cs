@@ -33,6 +33,7 @@ namespace DFS
             thread.Join();
             result.Sort();
             result.Reverse();
+            
            
             foreach (var item in result.Take(5))
             {
